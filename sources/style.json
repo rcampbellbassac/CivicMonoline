@@ -1,0 +1,9 @@
+{"name": "Civic Monoline", "slug": "CivicMonoline", "ink": "b", "body": "ບ",
+ "sign_text": "ໂຮງຮຽນອະນຸບານ ປະຖົມ ມັດທະຍົມ / ສຶກສາສົມບູນຫຼັກ35(ອິຕູ) ກຸ່ມ3 / ເມືອງປາກຊ່ອງ ແຂວງຈຳປາສັກ",
+ "notes": "Upright public-information lettering: even strokes, open forms, clear raised marks. School sign in Pakxong, Champasak.",
+ "labels": {"ໂ": [0], "ນ": [17], "ອ": [23], "ະ": [28, 29], "ຸ": [36], "ບ": [40], "ປ": [56], "ຖ": [64], "ົ": [65],
+            "ມ": [96], "ັ": [78], "ດ": [82], "ທ": [87], "ຍ": [93], "ຶ": [4], "ສ": [15], "າ": [19], "ູ": [42],
+            "ຫ": [50], "ຼ": [52], "ກ": [59], "3": [66], "5": [70], "ິ": [76], "່": [91], "ື": [8], "ຂ": [53],
+            "ຈ": [67], "ໍ": [69]},
+ "nib": {"shape": "round"},
+ "effects": [{"op": "wobble", "amp": 2, "wave": 300}]}
